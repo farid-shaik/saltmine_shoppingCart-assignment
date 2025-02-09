@@ -1,6 +1,6 @@
 # Shopping Cart Application
 
-A simple shopping cart application built with **Node.js** and **JavaScript**. It integrates with a Price API to fetch product prices dynamically and supports adding products, applying discounts, and calculating totals.
+A simple shopping cart application built with **Node.js** and **JavaScript**. It integrates with a Price API to fetch product prices dynamically and supports adding products, applying discounts, and calculating total price.
 
 ---
 
