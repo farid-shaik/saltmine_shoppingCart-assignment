@@ -52,6 +52,7 @@ A simple shopping cart application built with **Node.js** and **JavaScript**. It
 Run unit tests with:
    ```bash
    npx jest
+```
 
 ## Assumptions
 
