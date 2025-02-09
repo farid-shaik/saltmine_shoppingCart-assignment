@@ -18,7 +18,7 @@ A simple shopping cart application built with **Node.js** and **JavaScript**. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopping-cart-app.git
+   git clone https://github.com/farid-shaik/shopping-cart-app.git
    cd shopping-cart-app
 2. Install dependencies:
    ```bash
