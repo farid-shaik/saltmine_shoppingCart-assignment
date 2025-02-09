@@ -21,16 +21,20 @@ A simple shopping cart application built with **Node.js** and **JavaScript**. It
    git clone https://github.com/your-username/shopping-cart-app.git
    cd shopping-cart-app
 2. Install dependencies:
-   `npm install`
-3. Start the Price API server:
-   `npm run serve-products`
+   ```bash
+   npm install
+4. Start the Price API server:
+   ```bash
+   npm run serve-products
 
 ## Usage
 
 1. Run the application:
-   `node src/index.js`
+   ```bash
+   node src/index.js
 2. Example output:
-   `Cart State: {
+   ```bash
+   Cart State: {
       items: [
          { name: 'cornflakes', quantity: 2, price: 2.52 },
          { name: 'weetabix', quantity: 1, price: 9.98 }
@@ -46,7 +50,8 @@ A simple shopping cart application built with **Node.js** and **JavaScript**. It
 ## Testing
 
 Run unit tests with:
-   `npx jest`
+   ```bash
+   npx jest
 
 ## Assumptions
 
